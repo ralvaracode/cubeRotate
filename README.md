@@ -5,3 +5,5 @@ It didnt render folling the method suggested in tutorial. I needed to make a loc
 
 # Reference Video
 https://www.youtube.com/watch?v=oAJNYQLexIQ&list=PLT5klp7W4r8TprwP0xZvVC64WSfRUQFY-
+
+* TODO tinker with options in the scene
